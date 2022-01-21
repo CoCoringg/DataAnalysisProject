@@ -52,22 +52,19 @@ KR-WordRank :Unsupervised Korean Word & Keyword Extractor
 
 ### 1-3. 기술 스택
 
-- Flask, MySQL
+- Flask, MySQL, PyMySQL, SQLAlchemy
 - Next-js, Javascript
 - Python
 
 
 
-### 1-4. 사용 라이브러리
-
-- 프론트엔드:
-- 백엔드:
-- 데이터분석: 
 
 
+### 1-4. 웹서비스에 대한 자세한 개요
 
-### 1-5. 웹서비스에 대한 자세한 개요
-
+- 코로나와 OTT 서비스에 대한 관련 인사이트 도출
+- 메인 페이지에서 키워드 2가지 선택 -> 키워드 관련 영화 추천 
+- 시청기록분석 -> 넷플릭스 시청기록 데이터를 통해 데이터 분석 결과 도출
   - 
 
 ## 2. 프로젝트 목표
@@ -134,10 +131,3 @@ KR-WordRank :Unsupervised Korean Word & Keyword Extractor
 - 수정 단계: 코치님 피드백 반영해서 인공지능 학습 방식 수정
 
 
-## 6. 버전
-
-  - 프로젝트의 버전 기입
-
-## 7. FAQ
-
-  - 자주 받는 질문 정리
