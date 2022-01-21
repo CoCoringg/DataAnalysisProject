@@ -65,7 +65,7 @@ KR-WordRank :Unsupervised Korean Word & Keyword Extractor
 - 코로나와 OTT 서비스에 대한 관련 인사이트 도출
 - 메인 페이지에서 키워드 2가지 선택 -> 키워드 관련 영화 추천 
 - 시청기록분석 -> 넷플릭스 시청기록 데이터를 통해 데이터 분석 결과 도출
-  - 
+
 
 ## 2. 프로젝트 목표
 
