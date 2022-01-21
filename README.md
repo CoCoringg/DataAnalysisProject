@@ -130,4 +130,7 @@ KR-WordRank :Unsupervised Korean Word & Keyword Extractor
 - 개발 단계: 데이터 전처리, 학습 모델 구현, 학습 데이터 가공 및 모델 정밀도 향상
 - 수정 단계: 코치님 피드백 반영해서 인공지능 학습 방식 수정
 
+## 6. 배포
 
+ - Azure VM을 활용한 배포
+ 
